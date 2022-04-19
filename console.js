@@ -10,3 +10,5 @@ console.log(minhaVar)
 
 console.error("mensagem de erro")
 console.info("mensagem de info")
+console.table("mensagem de table")
+console.error(new Error("deu erro"));
